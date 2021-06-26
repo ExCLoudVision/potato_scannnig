@@ -1,6 +1,6 @@
 # potato_scannnig
 
-#####yeet another scanner
+##### yeet another scanner
 <hr>
 ### Web Directory Scanner | port scannner | dns scanner
 <hr>
