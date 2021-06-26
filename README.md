@@ -1,4 +1,4 @@
-# potato_scannnig
+# potato scannnig
 
 ##### yeet another scanner
 <hr>
@@ -6,7 +6,7 @@
 ### Web Directory Scanner | port scannner | dns scanner
 
 <hr>
-<img src="https://imguploader.com/images/2021/06/26/super-potato.png">
+<img src="https://imguploader.com/images/2021/06/26/super-potato.png" width=300>
 <br>
 
 # installation
